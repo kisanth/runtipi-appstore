@@ -4,7 +4,7 @@
   "available": true,
   "short_desc": "Dawarich location history tracker",
   "author": "Evgenii Burmakin",
-  "port": 8685,
+  "port": 3000,
   "categories": ["utilities", "social"],
   "description": "This app is an alternative to the Google maps timeline feature, it tracks location history.",
   "tipi_version": 1,
