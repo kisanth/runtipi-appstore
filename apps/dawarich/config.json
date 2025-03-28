@@ -11,7 +11,7 @@
   "version": "0.25.3",
   "source": "https://github.com/Freika/dawarich",
   "exposable": true,
-  "supported_architectures": ["arm64", "amd64"],
+  "supported_architectures": ["amd64"],
   "created_at": 1724134338800,
   "updated_at": 1724134338800
 }
