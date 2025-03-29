@@ -9,7 +9,7 @@
   "description": "Program to manage your Unifi network appliances.",
   "tipi_version": 1,
   "version": "9.0.114",
-  "source": "https://github.com/linuxserver/docker-unifi-network-application",
+  "source": "https://github.com/jacobalberty/unifi-docker",
   "exposable": true,
   "supported_architectures": ["amd64"],
   "created_at": 1743169043000,
