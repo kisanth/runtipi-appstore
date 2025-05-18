@@ -13,5 +13,6 @@
   "exposable": true,
   "supported_architectures": ["amd64"],
   "created_at": 1743169043000,
-  "updated_at": 1743169043000
+  "updated_at": 1743169043000,
+  "dynamic_config": true
 }
